@@ -1,4 +1,4 @@
-# Калибровка камеры с помощью camera\_calibrator
+# Калибровка камеры с помощью camera\_calibrator \(ROS\)
 
 #### Требования
 
@@ -15,14 +15,22 @@
 
 Перед запуском ноды cv\_camera необходимо настроить следующие параметры:
 
-1. _rosparam set /cvcamera/camera\_id 1 _
-2. _rosparam set /cvcamera/image\_width &lt;ширина&gt;_
-3. _rosparam set /cvcamera/image\_height &lt;высота&gt;_
+`rosparam set /cvcamera/camera_id 1      
+ rosparam set /cvcamera/image_width <ширина>      
+ rosparam set /cvcamera/image_height <высота>`
 
-#### Порядок запуска
+#### Изображение шахматной доски для настройки
 
-rosrun cv\__camera cv\__camera  
-rosrun calibration ...
+Для калибровки необходимо направить камеру на изображение шахматной доски. Его можно распечатать или вывести на монитор. Важно, чтобы вокруг изображения был белый фон, с чёрным фоном края доски не распознаются. Так же важно, чтобы квадраты были хорошо видны на изображении с калибруемой камеры. Один из возможных вариантов изображения доски:
 
+#### ![](/assets/chessboard.png)
 
+#### Порядок калибровки камеры
+
+Запустить ноду, выдающую изображение с камеры
+
+`rosrun cv_camera cv_camera    `
+
+`  
+ rosrun calibration ...`
 

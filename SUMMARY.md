@@ -1,6 +1,7 @@
 # Summary
 
 * [Введение](README.md)
-* [Калибровка камеры из Ubuntu через ROS](chapter1.md)
+* [Калибровка камеры в ROS](calibrator.md)
 * [Параметры коптеров](parametri-kopterov.md)
+* [Прошивка ESC регуляторов с помощью BLHeliSuite](proshivka-esc-regulyatorov-s-pomoschyu-blheli.md)
 
