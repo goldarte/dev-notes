@@ -1,3 +1,6 @@
-# My Awesome Book
+# Записки тестировщика
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Будем плагиатить и писать сюда инструкции по тестированию и программированию коптеров
+
+Px4, Raspberry, ROS
+
