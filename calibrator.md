@@ -1,6 +1,6 @@
 # Калибровка камеры с помощью camera\_calibrator \(ROS\)
 
-#### Требования
+#### Условия, при которых производилась калибровка
 
 1. Установлен ROS \(kinetic\)
 2. Установлен пакет cv\_camera
@@ -15,8 +15,8 @@
 
 Перед запуском ноды cv\_camera необходимо настроить следующие параметры:
 
-`rosparam set /cvcamera/camera_id 1      
- rosparam set /cvcamera/image_width <ширина>      
+`rosparam set /cvcamera/camera_id 1        
+ rosparam set /cvcamera/image_width <ширина>        
  rosparam set /cvcamera/image_height <высота>`
 
 #### Изображение шахматной доски для настройки
@@ -29,8 +29,7 @@
 
 Запустить ноду, выдающую изображение с камеры
 
-`rosrun cv_camera cv_camera    `
+`rosrun cv_camera cv_camera`
 
-`  
- rosrun calibration ...`
+`rosrun calibration ...`
 
