@@ -1,6 +1,6 @@
 Как монтировать usb диск на raspberry:
 
-Основная статья: https://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/
+Основная статья: [https://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/](https://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/)
 
 ```
 First make a directory in which to mount the USB drive
@@ -24,7 +24,7 @@ sudo mount -o uid=pi,gid=pi /dev/sda1 /mnt/usbstorage
 
 Как редактировать конфигурацию swap файла:
 
-Основная статья: https://raspberrypi.stackexchange.com/questions/70/how-to-set-up-swap-space
+Основная статья: [https://raspberrypi.stackexchange.com/questions/70/how-to-set-up-swap-space](https://raspberrypi.stackexchange.com/questions/70/how-to-set-up-swap-space)
 
 ```
 The configuration file is:
