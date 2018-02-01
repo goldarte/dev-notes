@@ -7,7 +7,7 @@
 Примонтировать SSH:
 
 ```
-sudo sshfs -o allow_other,default_permissions,IdentityFile=~/.ssh/id_rsa root@192.168.11.1:/ ~/coex_ssh
+sshfs -o allow_other,default_permissions,IdentityFile=~/.ssh/id_rsa root@192.168.11.1:/ ~/coex_ssh
 ```
 
 Размонтировать:
