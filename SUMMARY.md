@@ -9,4 +9,5 @@
 * [Попробовать orb-slam как-нибудь](poprobovat-orb-slam-kak-nibud.md)
 * [Монтирование файловой системы ssh](montirovanie-failovoi-sistemi-ssh.md)
 * [Запуск http сервера на python 2.7/3](zapusk-http-servera-na-python-273.md)
+* [Работа со светодиодной лентой](rabota-so-svetodiodnoi-lentoi.md)
 
