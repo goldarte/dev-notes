@@ -13,7 +13,7 @@
 &lt;/rosparam&gt;
 
 ```
-‘id’: size x y z yaw pitch roll
+‘id’: size x y z yaw pitch roll (x, y, z указывают на центр маркера)
 ```
 
 yaw pitch и roll игнорируются
@@ -21,6 +21,4 @@ yaw pitch и roll игнорируются
 ![](/assets/photo5291837177317140520.jpg)
 
 ![](/assets/photo5255821183595686225.jpg)
-
-
 
