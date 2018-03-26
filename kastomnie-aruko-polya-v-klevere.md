@@ -2,13 +2,13 @@
 
 Нужно поставить у aruco\_pose &lt;param name="type" value="custom"/&gt;
 
-Маркеры задаются так: 
+Маркеры задаются так:
 
 &lt;rosparam param="markers"&gt;
 
- '0': 0.33 0 0 0 0 0 0
+'0': 0.33 0 0 0 0 0 0
 
- '1': 0.2 0 1 0 0 0 0
+'1': 0.2 0 1 0 0 0 0
 
 &lt;/rosparam&gt;
 
@@ -17,4 +17,10 @@
 ```
 
 yaw pitch и roll игнорируются
+
+![](/assets/photo5291837177317140520.jpg)
+
+![](/assets/photo5255821183595686225.jpg)
+
+
 
