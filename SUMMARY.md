@@ -12,4 +12,5 @@
 * [Работа со светодиодной лентой](rabota-so-svetodiodnoi-lentoi.md)
 * [Проверка microsd карт на скорость запись/чтение](proverka-microsd-kart-na-skorost-zapischtenie.md)
 * [Кастомные аруко поля в клевере](kastomnie-aruko-polya-v-klevere.md)
+* [Расшифровка полётных логов с APM](rasshifrovka-polyotnih-logov-s-apm.md)
 
