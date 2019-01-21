@@ -13,4 +13,6 @@
 * [Проверка microsd карт на скорость запись/чтение](proverka-microsd-kart-na-skorost-zapischtenie.md)
 * [Кастомные аруко поля в клевере](kastomnie-aruko-polya-v-klevere.md)
 * [Расшифровка полётных логов с APM](rasshifrovka-polyotnih-logov-s-apm.md)
+* [Разработка платы для быстрого прототипирования колёсных баз и манипуляторов](razrabotka-plati-dlya-bistrogo-prototipirovaniya-kolyosnih-baz-i-manipulyatorov.md)
+  * [Обзор железа для построения колёсных баз для мобильных роботов, имеющих поддержку в ROS или APM/PX4](obzor-zheleza-dlya-postroeniya-kolyosnih-baz-dlya-mobilnih-robotov-imeyuschih-podderzhku-v-ros-ili-apmpx4.md)
 
