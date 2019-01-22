@@ -2,3 +2,5 @@
 
 Актуальные параметры для коптеров, используемых для тестирования в отделе SOFT, лежат здесь:
 
+https://docs.google.com/spreadsheets/d/19mfcdm7iZl9NEbgHfFPBvxOrven9J2BwQu8TMUJO7mc/edit\#gid=0
+
