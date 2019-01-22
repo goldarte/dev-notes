@@ -15,4 +15,7 @@
 * [Расшифровка полётных логов с APM](rasshifrovka-polyotnih-logov-s-apm.md)
 * [Разработка платы для быстрого прототипирования колёсных баз и манипуляторов](razrabotka-plati-dlya-bistrogo-prototipirovaniya-kolyosnih-baz-i-manipulyatorov.md)
   * [Обзор железа для построения колёсных баз для мобильных роботов, имеющих поддержку в ROS или APM/PX4](obzor-zheleza-dlya-postroeniya-kolyosnih-baz-dlya-mobilnih-robotov-imeyuschih-podderzhku-v-ros-ili-apmpx4.md)
+* [SLAM](slam-na-svyazke-intel-upboard-+-realsense-sr300.md)
+  * [Связь между ROS и APM](slam-na-svyazke-intel-upboard-+-realsense-sr300/svyaz-mezhdu-ros-i-apm.md)
+  * [SLAM в связке Intel Upboard + Realsence SR300](slam-na-svyazke-intel-upboard-+-realsense-sr300/slam-v-svyazke-intel-upboard-+-realsence-sr300.md)
 
