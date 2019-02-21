@@ -18,4 +18,5 @@
 * [SLAM](slam-na-svyazke-intel-upboard-+-realsense-sr300.md)
   * [Связь между ROS и APM](slam-na-svyazke-intel-upboard-+-realsense-sr300/svyaz-mezhdu-ros-i-apm.md)
   * [SLAM в связке Intel Upboard + Realsence SR300](slam-na-svyazke-intel-upboard-+-realsense-sr300/slam-v-svyazke-intel-upboard-+-realsence-sr300.md)
+* [Настройка только одного интерфейса wpa\_supplicant для работы с сетью](nastroika-tolko-odnogo-interfeisa-wpasupplicant-dlya-raboti-s-setyu.md)
 
