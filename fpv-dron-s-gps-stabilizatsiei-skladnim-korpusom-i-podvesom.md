@@ -31,6 +31,7 @@
 * [Foxeer legend 2](https://www.aliexpress.com/item/Original-Foxeer-Legend-2-F2-8-166-Degree-Wide-Angle-12MP-HD-WiFi-Camera-For-FPV/32675151839.html) - 70$
 * [SJ CAM M10](https://www.aliexpress.com/item/Original-SJCAM-SJ4000-Cube-M10-HD-1080P-Mini-DV-30M-Waterproof-Action-Sports-Camera-Camcorder-Battery/32276668324.html) - 72$
 * [A2](https://www.aliexpress.com/item/A2-HD-120-Degree-Wide-Angle-Low-latency-FPV-Camera-1080P-60FPS-HD-Recording-for-RC/32898257673.html) - 120$
+* [caddx turtle v2](https://www.banggood.com/Caddx-Turtle-V2-1080p-60fps-FOV-155-Degree-Super-WDR-Mini-HD-FPV-Camera-OSD-Mic-for-RC-Drone-p-1360782.html?ID=224&cur_warehouse=CN) - 80$
 
 ### Моторы
 
