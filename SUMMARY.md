@@ -26,4 +26,5 @@
 * [Автоматическая сборка и модификация образа Клевера](avtomaticheskaya-sborka-i-kastomizatsiya-obraza-operatsionnoi-sistemi-raspbian-ci.md)
 * [Как оформить python модуль в ROS пакете, чтобы его можно было импортировать](kak-oformit-python-modul-v-ros-pakete-chtobi-ego-mozhno-bilo-importirovat.md)
 * [Как починить SD карту без локера](kak-pochinit-sd-kartu-bez-lokera.md)
+* [Облачное хранилище на Raspberry](oblachnoe-hranilische-na-raspberry.md)
 
