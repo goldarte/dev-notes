@@ -6,5 +6,5 @@
 
 Сервисы для вируальных туннелей: ngrok.com, remote.it
 
-
+Чой-то owncloud - не комильфо. В [https://habr.com/ru/post/310144/](https://habr.com/ru/post/310144/) сказано, что стоит перейти на NextCloud, попробуем его.
 
