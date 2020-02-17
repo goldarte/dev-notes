@@ -58,12 +58,13 @@ docker run --privileged -it --rm -v /dev:/dev -v $(pwd):/mnt goldarte/img-tool:v
   ![](/assets/travis-instruction-9.png)
 
 * В терминале перейдите в папку со скопированным репозиторием, создайте и опубликуйте тег для создания пре-релиза, автоматической сборки и выкладки образа на github:
+
   ```
   git tag <имя тега>
   git push --tags
   ```
 
-* Дождитесь окончания сборки образа и проверьте раздел Releases в вашем репозитории:
+* Дождитесь окончания сборки образа и проверьте раздел Releases в вашем репозитории:  
   ![](/assets/travis-instruction-10.png)![](/assets/travis-instruction-11.png)
 
 * Нажмите на кнопку Draft a new release и выпустите [pre-release](https://github.com/goldarte/CleverSwarm/releases/tag/v0.2-test.1) или release собранного образа и исходным кодом:  
