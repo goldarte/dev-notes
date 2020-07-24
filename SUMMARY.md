@@ -29,4 +29,5 @@
 * [Облачное хранилище на Raspberry](oblachnoe-hranilische-na-raspberry.md)
 * [Как поднять напряжение на 5V 3A BEC \(mp1584\)](kak-podnyat-napryazhenie-na-5v-3a-bec-mp1584.md)
 * [Симулятор px4 + mavros + gazebo + кастомные ROS пакеты](simulyator-px4-+-mavros-+-gazebo-+-kastomnie-ros-paketi.md)
+* [Полезные сервисные команды Linux](poleznie-servisnie-komandi-linux.md)
 
